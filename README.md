@@ -1,6 +1,14 @@
 # Home assistant Sun card
 Home assistant Sun card based on Google weather design
 
+## Caution
+
+This was removed from HACS and I have adopted it for my own use despite the fact that I know approximately nothing about TypeScript development. I have made it work for now and intend to implement a few under-development bits and old pull requests - and of course I welcome new pull requests - but please be aware that for the moment, I have no goddamn idea what I'm doing, so use at own risk.
+
+That said:
+
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
+
 ## Preview
 ![Light mode preview](https://user-images.githubusercontent.com/6829526/118412152-54d93900-b690-11eb-8b2b-e87b4cbcca7f.png)
 ![Dark mode preview](https://user-images.githubusercontent.com/6829526/118412162-64f11880-b690-11eb-9bd7-b8c6c7d8efd8.png)
