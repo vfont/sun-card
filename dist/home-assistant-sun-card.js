@@ -3441,12 +3441,12 @@ var en = {
 };
 
 var Azimuth$b = "Azimut";
-var Dawn$b = "Amanecer";
-var Dusk$b = "Anochecer";
-var Elevation$b = "Elevación";
-var Noon$b = "Mediodía solar";
-var Sunrise$b = "Salida del sol";
-var Sunset$b = "Atardecer";
+var Dawn$b = "Alba";
+var Dusk$b = "Capvespre";
+var Elevation$b = "Elevació";
+var Noon$b = "Migdia solar";
+var Sunrise$b = "Sortida del Sol";
+var Sunset$b = "Posta del Sol";
 var errors$b = {
 	SunIntegrationNotFound: "Sun integration not found"
 };
