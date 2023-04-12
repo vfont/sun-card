@@ -3445,8 +3445,8 @@ var Dawn$b = "Alba";
 var Dusk$b = "Capvespre";
 var Elevation$b = "Elevació";
 var Noon$b = "Migdia solar";
-var Sunrise$b = "Sortida del Sol";
-var Sunset$b = "Posta del Sol";
+var Sunrise$b = "Sortida de Sol";
+var Sunset$b = "Posta de Sol";
 var errors$b = {
 	SunIntegrationNotFound: "Sun integration not found"
 };
